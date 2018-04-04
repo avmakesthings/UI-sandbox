@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/OS_Home.unity
+    guid: 6119a5a026872f3468862555a59f3ce0
+  - enabled: 0
+    path: Assets/VRTK/Examples/019_Controller_InteractingWithPointer.unity
+    guid: d1be9c4b44ac84e4bb09cbf118f21d02
+  - enabled: 0
+    path: Assets/VRTK/Examples/025_Controls_Overview.unity
+    guid: b62e5ac17f705524cad1b16219dba697
+  - enabled: 0
+    path: Assets/VRTK/Examples/034_Controls_InteractingWithUnityUI.unity
+    guid: 2ce499512664316478fc7632f4bb4674

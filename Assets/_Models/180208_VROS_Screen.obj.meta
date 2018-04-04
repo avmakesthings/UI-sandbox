@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 9e99f449f2a705040b80b50a199bf2dc
+timeCreated: 1518225449
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: base
+    100004: control1
+    100006: control2
+    100008: control3
+    100010: control4
+    100012: date
+    100014: divider
+    100016: news
+    100018: notice
+    100020: notifications
+    100022: pentagon
+    100024: welcome
+    400000: //RootNode
+    400002: base
+    400004: control1
+    400006: control2
+    400008: control3
+    400010: control4
+    400012: date
+    400014: divider
+    400016: news
+    400018: notice
+    400020: notifications
+    400022: pentagon
+    400024: welcome
+    2100000: baseMat
+    2100002: control1Mat
+    2100004: control2Mat
+    2100006: control3Mat
+    2100008: control4Mat
+    2100010: dateMat
+    2100012: dividerMat
+    2100014: newsMat
+    2100016: noticeMat
+    2100018: notificationsMat
+    2100020: pentagonMat
+    2100022: welcomeMat
+    2300000: base
+    2300002: control1
+    2300004: control2
+    2300006: control3
+    2300008: control4
+    2300010: date
+    2300012: divider
+    2300014: news
+    2300016: notice
+    2300018: notifications
+    2300020: pentagon
+    2300022: welcome
+    3300000: base
+    3300002: control1
+    3300004: control2
+    3300006: control3
+    3300008: control4
+    3300010: date
+    3300012: divider
+    3300014: news
+    3300016: notice
+    3300018: notifications
+    3300020: pentagon
+    3300022: welcome
+    4300000: base
+    4300002: control1
+    4300004: control2
+    4300006: control3
+    4300008: control4
+    4300010: date
+    4300012: divider
+    4300014: news
+    4300016: notice
+    4300018: notifications
+    4300020: pentagon
+    4300022: welcome
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
