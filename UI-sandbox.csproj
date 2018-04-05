@@ -297,6 +297,7 @@
     <Compile Include="Assets\_Scripts\Interaction\Input_VRKeyboard.cs" />
     <Compile Include="Assets\_Scripts\Interaction\PointerManager.cs" />
     <Compile Include="Assets\_Scripts\Interaction\PointerRendererSwitch.cs" />
+    <Compile Include="Assets\_Scripts\Interaction\SwapObjects.cs" />
     <Compile Include="Assets\_Scripts\Interaction\UIAutoPointer.cs" />
     <Compile Include="Assets\_Scripts\Menus\Menu.cs" />
     <Compile Include="Assets\_Scripts\Menus\UICuffQuickAppMenu.cs" />
@@ -308,6 +309,7 @@
     <Compile Include="Assets\_Scripts\UI\ButtonInteractUse.cs" />
     <Compile Include="Assets\_Scripts\UI\HomeScreenAnimator.cs" />
     <Compile Include="Assets\_Scripts\UI\LayoutGrid.cs" />
+    <Compile Include="Assets\_Scripts\UI\RotateToFacePlayer.cs" />
     <Compile Include="Assets\_Scripts\UI\TextVisibilityOptim.cs" />
     <Compile Include="Assets\_Scripts\UI\UIButtonHighlight.cs" />
     <Compile Include="Assets\_Scripts\UI\UIToggleAnimation.cs" />

@@ -4,12 +4,34 @@ using UnityEngine;
 
 public class UITrigger : MonoBehaviour {
 
+    public GameObject[] enable = { };
+    public GameObject[] disable = { };
+    public GameObject[] instantiate = { };
+
+    private GameObject tempItem;
+
+
+
     private void OnTriggerEnter(Collider other)
     {
 
         if (other.tag == "Player")
         {
-            print("the player has entered");
+            foreach(GameObject obj in enable)
+            {
+                obj.SetActive(true);
+            }
+
+            foreach (GameObject obj in disable)
+            {
+                obj.SetActive(false);
+            }
+
+            //not working yet
+            foreach (GameObject obj in instantiate)
+            {
+                GameObject tempItem = (GameObject)Instantiate(obj);
+            }
         }
 
     }
@@ -18,7 +40,22 @@ public class UITrigger : MonoBehaviour {
     {
         if (other.tag == "Player")
         {
-            print("the player has left");
+            foreach (GameObject obj in enable)
+            {
+                obj.SetActive(false);
+            }
+
+            foreach (GameObject obj in disable)
+            {
+                obj.SetActive(true);
+            }
+
+            //not working yet
+            foreach (GameObject obj in instantiate)
+            {
+
+                Destroy(tempItem);
+            }
         }
     }
 }
