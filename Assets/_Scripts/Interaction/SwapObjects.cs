@@ -26,7 +26,9 @@ public class SwapObjects : MonoBehaviour {
     public void setActiveObject(GameObject nextObject)
     {
         getActiveObject();
+        print("current active obj" + activeObject);
         activeObject.SetActive(false);
         nextObject.SetActive(true);
+        print("next active obj" + activeObject);
     }
 }
