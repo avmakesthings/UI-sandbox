@@ -292,11 +292,11 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
-    <Reference Include="TextMeshPro-2017.3-1.0.56-Runtime">
-      <HintPath>Assets\TextMesh Pro\Plugins\Editor DLL\TextMeshPro-2017.3-1.0.56-Runtime.dll</HintPath>
-    </Reference>
     <Reference Include="TextMeshPro-2017.3-1.0.56-Editor">
       <HintPath>Assets\TextMesh Pro\Plugins\Editor DLL\TextMeshPro-2017.3-1.0.56-Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-2017.3-1.0.56-Runtime">
+      <HintPath>Assets\TextMesh Pro\Plugins\Editor DLL\TextMeshPro-2017.3-1.0.56-Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -306,6 +306,7 @@
     <Compile Include="Assets\_Scripts\Interaction\SwapObjects.cs" />
     <Compile Include="Assets\_Scripts\Interaction\UIAutoPointer.cs" />
     <Compile Include="Assets\_Scripts\Menus\Menu.cs" />
+    <Compile Include="Assets\_Scripts\Menus\StartMenu.cs" />
     <Compile Include="Assets\_Scripts\Menus\UICuffQuickAppMenu.cs" />
     <Compile Include="Assets\_Scripts\Menus\UICuffQuickFileMenu.cs" />
     <Compile Include="Assets\_Scripts\MeshTools\ReverseNormals.cs" />
