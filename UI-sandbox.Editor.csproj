@@ -292,6 +292,12 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
+    <Reference Include="TextMeshPro-2017.3-1.0.56-Editor">
+      <HintPath>Assets\TextMesh Pro\Plugins\Editor DLL\TextMeshPro-2017.3-1.0.56-Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-2017.3-1.0.56-Runtime">
+      <HintPath>Assets\TextMesh Pro\Plugins\Editor DLL\TextMeshPro-2017.3-1.0.56-Runtime.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UI-sandbox.csproj">
@@ -300,7 +306,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
     <Compile Include="Assets\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Editor\Models\AmbientOcclusionModelEditor.cs" />
     <Compile Include="Assets\PostProcessing\Editor\Models\AntialiasingModelEditor.cs" />
@@ -408,6 +413,26 @@
     <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
     <None Include="Assets\SteamVR\Resources\SteamVR_SphericalProjection.shader" />
     <None Include="Assets\SteamVR\readme.txt" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\NotoSans - License.txt" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald Bold - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\VRPanorama\New_HQ_Stereo_Mode_Readme.txt" />
     <None Include="Assets\VRPanorama\Shaders\FadeVR.shader" />
     <None Include="Assets\VRPanorama\Shaders\FadeVRtd.shader" />
