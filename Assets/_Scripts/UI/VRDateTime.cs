@@ -3,11 +3,13 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 
+
+//a class that gets system time and converts it to formatted strings
 public class VRDateTime : MonoBehaviour
 {
 
     private Text dateTimeText;
-    public bool year, month, day, time, dayString, monthString;
+    public bool year, month, day, time, dayString, monthString, dateString;
 
 
     void Start()
@@ -46,6 +48,10 @@ public class VRDateTime : MonoBehaviour
         if (monthString)
         {
             dateTimeText.text = dateTime.ToString("MMMM");
+        }
+        if (dateString)
+        {
+            dateTimeText.text = (dateTime.ToString("dddd") + " " + dateTime.ToString("dd") +  " " + dateTime.ToString("MMMM"));
         }
 
 
