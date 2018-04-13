@@ -22,12 +22,13 @@ public class VRDateTime : MonoBehaviour
     void Update()
     {
 
-        System.DateTime dateTime = System.DateTime.Now;
+        DateTime dateTime = DateTime.Now;
 
         if (time)
         {
 
             dateTimeText.text = dateTime.ToString("hh:mm:tt");
+
         }
         if (day)
         {
@@ -54,18 +55,10 @@ public class VRDateTime : MonoBehaviour
             dateTimeText.text = (dateTime.ToString("dddd") + " " + dateTime.ToString("dd") +  " " + dateTime.ToString("MMMM"));
         }
 
-
-        //for every second
-        //StartCoroutine("Blink");
-
     }
 
 
 
-    //a coroutine that 
-    //IEnumerator Blink (System.DateTime time)
-    //{
-    // print(clockText);
-    //}
+
 
 }
