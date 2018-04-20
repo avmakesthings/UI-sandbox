@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 114287046970602706}
   - component: {fileID: 114233312366126872}
   m_Layer: 5
-  m_Name: nested-menu-label
+  m_Name: Nested-menu-label
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
