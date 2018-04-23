@@ -313,11 +313,14 @@
     <Compile Include="Assets\_Scripts\MeshTools\ToggleMaterial.cs" />
     <Compile Include="Assets\_Scripts\MeshTools\ToggleScale.cs" />
     <Compile Include="Assets\_Scripts\Scene\VRSceneManager.cs" />
+    <Compile Include="Assets\_Scripts\UI\BlinkPerSecond.cs" />
     <Compile Include="Assets\_Scripts\UI\ButtonInteractUse.cs" />
     <Compile Include="Assets\_Scripts\UI\HomeScreenAnimator.cs" />
     <Compile Include="Assets\_Scripts\UI\LayoutGrid.cs" />
     <Compile Include="Assets\_Scripts\UI\RotateToFacePlayer.cs" />
     <Compile Include="Assets\_Scripts\UI\TextVisibilityOptim.cs" />
+    <Compile Include="Assets\_Scripts\UI\TMPBlinkPerSec.cs" />
+    <Compile Include="Assets\_Scripts\UI\TMPDateTime.cs" />
     <Compile Include="Assets\_Scripts\UI\UIButtonHighlight.cs" />
     <Compile Include="Assets\_Scripts\UI\UIToggleAnimation.cs" />
     <Compile Include="Assets\_Scripts\UI\UITrigger.cs" />
