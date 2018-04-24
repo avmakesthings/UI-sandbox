@@ -23,8 +23,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _larguraLinha: 0.02
+    - _larguraLinha: 0.01
     - _tParcela: 1
     m_Colors:
-    - _corLinha: {r: 0.85294116, g: 0.85294116, b: 0.85294116, a: 0.354}
-    - _corPrincipal: {r: 1, g: 1, b: 1, a: 0.553}
+    - _corLinha: {r: 0.8245026, g: 0.8245026, b: 0.9191176, a: 0.478}
+    - _corPrincipal: {r: 0.759, g: 0.772, b: 1, a: 0}
