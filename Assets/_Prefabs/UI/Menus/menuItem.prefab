@@ -39,6 +39,7 @@ GameObject:
   - component: {fileID: 224752782123609506}
   - component: {fileID: 222730129381192306}
   - component: {fileID: 114712575197325302}
+  - component: {fileID: 65294223930903734}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -46,6 +47,18 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &65294223930903734
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1983713727100264}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 69.66192, y: 21.42783, z: 1.5210422}
+  m_Center: {x: 33.02436, y: -10.213893, z: -0.2604139}
 --- !u!114 &114695118272969120
 MonoBehaviour:
   m_ObjectHideFlags: 1

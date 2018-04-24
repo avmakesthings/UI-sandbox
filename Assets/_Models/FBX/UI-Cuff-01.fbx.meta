@@ -1,98 +1,45 @@
 fileFormatVersion: 2
-guid: 0ca739b82edc26245be67cc3c846e9c0
-timeCreated: 1523664551
+guid: a769d65cec58ae641b96bcee83ec5bde
+timeCreated: 1524546611
 licenseType: Pro
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Cuff-base
-    100004: screen
-    100006: screen-base
-    100008: Buttons
-    100010: Buttons.001
-    100012: notifications-band
-    100014: Button -1
-    100016: Button-2
-    100018: buttons
-    100020: Cuff-updated
-    100022: HTC_Vive_controller
-    100024: info-panel
-    100026: man
-    100028: button-1
-    100030: button-2
-    100032: button-3
+    100002: Cuff-updated
+    100004: Cuff-updated.001
+    100006: Cuff-updated.002
+    100008: Cuff-updated.003
+    100010: Cuff-updated.004
+    100012: Cuff-updated.006
     400000: //RootNode
-    400002: Cuff-base
-    400004: screen
-    400006: screen-base
-    400008: Buttons
-    400010: Buttons.001
-    400012: notifications-band
-    400014: Button -1
-    400016: Button-2
-    400018: buttons
-    400020: Cuff-updated
-    400022: HTC_Vive_controller
-    400024: info-panel
-    400026: man
-    400028: button-1
-    400030: button-2
-    400032: button-3
+    400002: Cuff-updated
+    400004: Cuff-updated.001
+    400006: Cuff-updated.002
+    400008: Cuff-updated.003
+    400010: Cuff-updated.004
+    400012: Cuff-updated.006
     2100000: No Name
-    2100002: screen.001
-    2100004: screen.002
     2300000: //RootNode
-    2300002: Cuff-base
-    2300004: screen
-    2300006: screen-base
-    2300008: Buttons
-    2300010: Buttons.001
-    2300012: notifications-band
-    2300014: Button -1
-    2300016: Button-2
-    2300018: buttons
-    2300020: Cuff-updated
-    2300022: HTC_Vive_controller
-    2300024: info-panel
-    2300026: man
-    2300028: button-1
-    2300030: button-2
-    2300032: button-3
+    2300002: Cuff-updated
+    2300004: Cuff-updated.001
+    2300006: Cuff-updated.002
+    2300008: Cuff-updated.003
+    2300010: Cuff-updated.004
+    2300012: Cuff-updated.006
     3300000: //RootNode
-    3300002: Cuff-base
-    3300004: screen
-    3300006: screen-base
-    3300008: Buttons
-    3300010: Buttons.001
-    3300012: notifications-band
-    3300014: Button -1
-    3300016: Button-2
-    3300018: buttons
-    3300020: Cuff-updated
-    3300022: HTC_Vive_controller
-    3300024: info-panel
-    3300026: man
-    3300028: button-1
-    3300030: button-2
-    3300032: button-3
-    4300000: Cylinder.001
-    4300002: screen-base
-    4300004: screen
-    4300006: Cuff-base
-    4300008: Buttons.001
-    4300010: Buttons
-    4300012: notifications-band
-    4300014: Cuff-updated
-    4300016: Button-2
-    4300018: Button -1
-    4300020: buttons
-    4300022: info-panel
-    4300024: HTC_Vive_controller
-    4300026: man
-    4300028: button-3
-    4300030: button-2
-    4300032: button-1
+    3300002: Cuff-updated
+    3300004: Cuff-updated.001
+    3300006: Cuff-updated.002
+    3300008: Cuff-updated.003
+    3300010: Cuff-updated.004
+    3300012: Cuff-updated.006
+    4300000: Cuff-updated
+    4300002: Cuff-updated.006
+    4300004: Cuff-updated.004
+    4300006: Cuff-updated.003
+    4300008: Cuff-updated.002
+    4300010: Cuff-updated.001
   externalObjects: {}
   materials:
     importMaterials: 1
