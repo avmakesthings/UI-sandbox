@@ -300,6 +300,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_Scripts\Animation\AnimatorEventHooks.cs" />
+    <Compile Include="Assets\_Scripts\Animation\BasicAnimationEvent.cs" />
     <Compile Include="Assets\_Scripts\Debug\GetAnimatorInfo.cs" />
     <Compile Include="Assets\_Scripts\Interaction\Input_VRKeyboard.cs" />
     <Compile Include="Assets\_Scripts\Interaction\PointerManager.cs" />
@@ -323,6 +325,7 @@
     <Compile Include="Assets\_Scripts\UI\TMPBlinkPerSec.cs" />
     <Compile Include="Assets\_Scripts\UI\TMPDateTime.cs" />
     <Compile Include="Assets\_Scripts\UI\UIButtonHighlight.cs" />
+    <Compile Include="Assets\_Scripts\UI\UIDrawMenuLine.cs" />
     <Compile Include="Assets\_Scripts\UI\UIToggleAnimation.cs" />
     <Compile Include="Assets\_Scripts\UI\UIToggleButtonAnim.cs" />
     <Compile Include="Assets\_Scripts\UI\UITrigger.cs" />
